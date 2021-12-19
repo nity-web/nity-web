@@ -1,5 +1,6 @@
-
+<center>
 [![Nity Web](60A05C18-9EB3-43DD-9B27-12D67888EA03.gif)](https://www.youtube.com/channel/UCigp_Ho8P3R3_D_zv5b8l3Q) 
+ </center>
 <p>
 
 <h1 align="center"><b>Nity Web</b></h1>
