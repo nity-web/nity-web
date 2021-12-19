@@ -1,4 +1,5 @@
-<img href="https://imgur.com/a/KoyNkHF"/>
+
+<img align="center" src="https://imgur.com/a/KoyNkHF" alt="Lakshya's Github Stats">
 <p>
 
 <h1 align="center"><b>Nity Web</b></h1>
