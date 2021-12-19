@@ -1,16 +1,13 @@
-### Hi there 👋
+[![Matrix SVG](https://imgur.com/a/KoyNkHF)](https://www.youtube.com/channel/UCigp_Ho8P3R3_D_zv5b8l3Q) 
+<p>
 
-<!--
-**nity-web/nity-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Nity Web</b></h1>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nity-web&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+</p>
